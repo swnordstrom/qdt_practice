@@ -1,5 +1,10 @@
 #Some monkeyflowers
 monkeyflowers <- c("M. guttatus", "M. lewisii")
 
-print('no one will ever think to commit this')
-sqrt(8)
+monkeyflowers
+
+flSize <- c(1, 10) #compare floral sizes
+
+###
+
+print('great idea!')
